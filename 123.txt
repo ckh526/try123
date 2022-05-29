@@ -1,6 +1,14 @@
 hihihi
 hello!!
 CAT DOG
+<<<<<<< HEAD
+<<<<<<< HEAD
 NO!!!! YES!!!!
 YOOO
 421321321321
+=======
+NO!!!! YES!!!!
+>>>>>>> parent of aa1a300 (Revert "Revert "Update 123.txt"")
+=======
+NO!!!! YES!!!!
+>>>>>>> parent of aa1a300 (Revert "Revert "Update 123.txt"")
